@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-SOLID-principle.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-SOLID-principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-SOLID-principle.scala-SOLID-principle-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-SOLID-principle.scala-SOLID-principle-build.iml" />
+    </modules>
+  </component>
+</project>
